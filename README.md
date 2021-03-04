@@ -1,6 +1,8 @@
 # Stone-Paper-Scissor-Game
 This is the Stone Paper Sciessor game developed using HTML, CSS and Javascript.
 
+<img src = "https://github.com/abhisheks008/Stone-Paper-Scissor-Game/blob/main/spsdemo.png" >
+
 ### Steps to play the game in your PC / Laptop :
 :one: Download the ```index.html```, ```script.js``` and ```style.css``` files in your machine.
 
